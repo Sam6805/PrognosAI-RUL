@@ -1,0 +1,708 @@
+engine_uid,GRU_RUL,LSTM_RUL,Ensemble_RUL,Alert,Recommendation,Adaptive_Alert,Adaptive_Message,Final_Alert,Final_Message
+test_FD002.txt_116,3.45,2.82,3.2,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_138,3.64,3.34,3.52,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_7,5.13,3.49,4.47,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_91,4.12,5.48,4.66,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_103,5.44,4.55,5.09,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_134,6.04,4.53,5.44,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_102,7.72,2.6,5.67,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_173,7.04,4.02,5.83,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_210,5.86,6.41,6.08,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_34,6.21,6.69,6.4,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_135,7.34,5.33,6.54,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_58,6.6,6.73,6.65,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_227,7.53,5.47,6.71,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_186,6.68,7.02,6.81,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_159,6.25,7.73,6.84,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_211,8.42,5.24,7.15,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_82,9.3,4.86,7.52,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_11,7.39,7.83,7.57,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_80,7.64,7.5,7.58,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_14,8.65,6.99,7.99,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_164,8.47,7.76,8.19,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_76,9.63,6.75,8.48,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_231,7.49,10.67,8.76,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_245,7.97,9.97,8.77,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_184,10.22,6.62,8.78,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_158,9.98,7.25,8.89,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_31,8.69,9.82,9.15,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_208,9.33,8.87,9.15,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_116,9.97,8.13,9.23,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_24,12.81,3.88,9.24,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_82,9.52,8.87,9.26,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_12,6.75,13.23,9.34,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_225,8.25,11.11,9.4,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_99,9.02,10.0,9.41,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_26,11.77,6.13,9.52,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_46,12.26,5.77,9.66,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_177,7.57,12.88,9.69,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_202,8.94,10.83,9.69,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_94,12.69,5.22,9.7,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_65,8.29,12.1,9.81,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_252,7.67,13.19,9.88,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_81,9.83,10.15,9.96,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_198,9.7,10.35,9.96,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_50,8.49,12.52,10.1,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_185,9.89,11.09,10.37,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_103,9.01,12.67,10.47,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_238,12.55,7.7,10.61,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_124,10.8,10.49,10.68,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_99,12.92,7.75,10.85,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_90,10.0,12.16,10.86,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_237,12.23,8.98,10.93,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_40,9.58,13.1,10.99,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_68,11.18,11.26,11.21,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_173,11.24,11.35,11.28,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_100,10.93,11.9,11.32,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_44,7.19,18.53,11.73,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_146,12.21,11.36,11.87,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_35,11.16,13.05,11.92,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_22,8.5,17.4,12.06,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_216,12.67,11.24,12.1,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_242,10.84,14.14,12.16,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_39,14.96,8.1,12.22,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_9,10.54,15.06,12.35,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_1,10.9,15.0,12.54,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_179,11.5,14.14,12.55,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_118,13.58,11.11,12.6,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_42,14.33,10.03,12.61,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_22,8.68,18.78,12.72,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_111,13.03,12.46,12.8,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_70,14.83,10.17,12.97,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_31,12.72,13.65,13.09,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_69,12.74,14.14,13.3,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_174,13.75,12.65,13.31,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_182,13.34,13.29,13.32,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_8,12.09,15.24,13.35,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_101,13.12,14.3,13.59,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_236,10.71,18.21,13.71,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_20,14.07,14.09,14.07,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_102,14.03,14.51,14.22,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_48,12.12,18.06,14.5,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_148,13.66,16.15,14.65,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_155,13.06,17.2,14.72,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_49,15.19,14.73,15.01,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_113,16.17,13.95,15.28,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_100,18.52,10.62,15.36,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_98,16.72,13.58,15.46,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_213,14.05,17.63,15.48,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_190,11.12,22.04,15.49,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_64,12.88,20.19,15.8,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_250,14.9,17.25,15.84,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_45,16.38,15.31,15.95,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_32,13.08,20.32,15.98,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_92,18.47,12.34,16.01,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_81,18.98,12.08,16.22,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_82,15.46,17.5,16.28,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_192,14.82,19.13,16.55,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_21,19.18,12.89,16.66,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_50,15.43,19.2,16.94,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_65,14.3,21.49,17.17,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_194,15.21,20.24,17.22,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_209,17.89,16.58,17.37,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_100,15.03,21.0,17.42,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_66,19.69,14.27,17.52,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_5,14.79,21.82,17.6,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_183,13.32,24.56,17.82,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_41,19.42,16.44,18.23,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_38,11.49,29.14,18.55,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_87,20.74,15.67,18.71,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_120,20.28,16.87,18.92,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_24,22.34,13.84,18.94,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_181,17.5,21.21,18.98,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_111,20.75,16.36,18.99,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_224,18.07,20.62,19.09,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_56,16.38,23.24,19.12,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_180,18.46,20.81,19.4,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_172,23.59,13.74,19.65,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_161,17.39,23.58,19.87,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_79,19.37,21.95,20.4,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_15,20.93,19.73,20.45,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_84,17.18,25.53,20.52,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_90,19.79,21.75,20.57,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_159,16.09,28.07,20.88,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_151,19.89,23.17,21.2,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_19,20.83,22.85,21.64,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_177,21.1,22.63,21.71,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_86,23.09,20.0,21.85,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_76,23.08,20.45,22.03,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_32,21.2,23.68,22.19,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_36,20.9,24.34,22.28,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_176,22.86,22.52,22.72,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_71,21.07,25.7,22.92,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_235,23.08,22.91,23.01,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_58,19.72,28.25,23.13,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_61,23.76,23.85,23.8,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_97,21.28,27.68,23.84,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_158,21.34,30.1,24.84,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_126,22.0,30.34,25.34,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_35,24.53,27.81,25.84,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_114,24.96,27.26,25.88,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_78,27.45,23.68,25.94,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_150,26.09,26.23,26.15,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_121,22.09,32.54,26.27,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_92,24.36,29.33,26.35,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_100,29.62,21.59,26.41,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_52,28.71,23.38,26.58,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_38,27.34,26.03,26.82,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_49,26.78,27.5,27.06,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_37,27.85,26.52,27.32,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_171,24.42,31.8,27.37,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_42,26.58,29.0,27.55,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_42,28.8,26.83,28.01,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_219,29.71,25.64,28.08,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_43,26.82,32.99,29.29,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_71,30.52,27.68,29.39,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_40,29.58,29.47,29.54,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_53,30.81,27.79,29.6,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_13,30.43,28.44,29.64,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_18,29.0,30.65,29.66,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_248,28.79,32.25,30.17,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_1,30.26,31.44,30.74,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_123,25.2,40.89,31.48,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_64,34.88,26.96,31.71,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_77,34.6,27.89,31.91,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_91,29.07,36.23,31.93,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_62,31.28,33.89,32.32,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_25,33.47,31.39,32.64,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_14,33.72,31.99,33.03,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_240,29.37,39.37,33.37,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_73,28.42,40.99,33.45,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_109,34.03,32.84,33.55,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_23,32.65,35.4,33.75,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD001.txt_40,34.19,33.36,33.86,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_231,32.72,36.52,34.24,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_193,34.46,34.04,34.29,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD003.txt_3,36.06,32.17,34.51,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_142,31.98,38.55,34.61,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD002.txt_160,34.55,34.82,34.66,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required,CRITICAL,Immediate maintenance required
+test_FD004.txt_61,29.8,42.21,34.76,CRITICAL,Immediate maintenance required,WARNING,Maintenance should be scheduled soon,CRITICAL,Immediate maintenance required
+test_FD002.txt_68,34.44,35.36,34.8,CRITICAL,Immediate maintenance required,WARNING,Maintenance should be scheduled soon,CRITICAL,Immediate maintenance required
+test_FD004.txt_154,33.57,36.93,34.91,CRITICAL,Immediate maintenance required,WARNING,Maintenance should be scheduled soon,CRITICAL,Immediate maintenance required
+test_FD004.txt_47,32.28,38.9,34.93,CRITICAL,Immediate maintenance required,WARNING,Maintenance should be scheduled soon,CRITICAL,Immediate maintenance required
+test_FD002.txt_96,33.75,37.31,35.18,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_187,37.29,35.27,36.48,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_70,36.31,37.19,36.66,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_185,39.44,33.18,36.93,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_41,35.41,39.36,36.99,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_134,32.97,43.34,37.12,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_209,27.72,51.48,37.23,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_44,32.57,46.57,38.17,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_222,39.93,36.03,38.37,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_40,41.56,33.79,38.45,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_197,36.28,43.29,39.08,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_77,36.22,46.06,40.16,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_244,38.89,42.18,40.21,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_150,38.14,43.52,40.29,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_76,38.38,43.38,40.38,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_52,34.83,49.56,40.72,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_67,38.97,43.5,40.78,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_68,40.06,42.06,40.86,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_58,42.21,38.99,40.92,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_7,45.92,37.28,42.46,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_179,43.16,42.75,43.0,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_75,48.81,34.28,43.0,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_99,37.28,51.66,43.03,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_62,41.12,47.33,43.6,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_64,45.15,41.8,43.81,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_144,38.92,53.17,44.62,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_38,43.52,46.95,44.89,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_3,48.52,40.66,45.38,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_39,43.21,48.9,45.48,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_206,42.81,49.6,45.52,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_93,45.37,46.33,45.75,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_62,46.08,45.74,45.95,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_55,46.04,46.36,46.16,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_15,49.77,42.46,46.84,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_17,47.41,46.14,46.9,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_38,47.11,46.84,47.0,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_140,43.37,52.54,47.04,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_46,45.46,49.93,47.25,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_132,49.25,44.77,47.46,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_58,44.83,51.55,47.52,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_32,48.73,45.87,47.59,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_253,50.61,43.66,47.83,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_85,47.76,50.13,48.71,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_59,48.95,49.6,49.21,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_237,48.73,50.13,49.29,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_78,49.24,49.71,49.43,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_91,45.2,55.97,49.51,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_107,48.53,51.51,49.72,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_8,46.5,54.64,49.76,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_254,39.94,65.37,50.12,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_189,48.17,54.29,50.62,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_21,54.23,45.3,50.65,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_2,51.94,50.03,51.17,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_90,50.9,52.03,51.35,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_89,53.21,48.83,51.46,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_127,51.49,52.32,51.82,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_133,51.03,54.08,52.25,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_48,48.99,57.7,52.48,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_162,52.29,54.79,53.29,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_145,59.97,43.41,53.35,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_86,53.35,54.2,53.69,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_63,49.65,59.91,53.75,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_33,46.61,65.48,54.16,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_195,51.44,59.26,54.57,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_257,47.94,66.29,55.28,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_124,53.52,59.27,55.82,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_53,55.76,56.2,55.94,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_223,54.49,58.41,56.06,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_20,51.46,63.49,56.27,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_17,45.38,73.29,56.54,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_9,52.84,62.25,56.6,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_181,54.82,59.91,56.86,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_35,50.71,66.92,57.19,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_30,53.46,63.2,57.36,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_110,60.15,53.52,57.5,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_1,60.18,54.16,57.77,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_64,53.13,64.93,57.85,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_143,58.9,56.54,57.95,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_72,63.4,49.95,58.02,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_190,54.98,64.26,58.69,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_13,55.89,63.11,58.78,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_25,54.08,66.58,59.08,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_98,57.77,63.5,60.06,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_199,57.61,65.68,60.84,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_43,60.12,62.12,60.92,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_112,59.64,63.63,61.24,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_8,59.56,65.69,62.01,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_212,56.67,71.07,62.43,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_77,64.13,60.29,62.6,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_248,57.1,71.68,62.93,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_87,62.79,64.08,63.31,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_217,65.63,60.74,63.68,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_72,61.23,67.47,63.72,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_139,58.12,73.41,64.24,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_183,60.76,69.75,64.36,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_107,53.87,80.25,64.42,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_4,63.03,67.35,64.75,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_32,64.51,68.56,66.13,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_234,64.74,68.99,66.44,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_24,61.27,74.3,66.49,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_88,59.92,76.36,66.5,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_2,69.31,64.86,67.53,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_222,68.71,65.9,67.59,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_137,65.87,72.4,68.48,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_62,82.08,50.41,69.41,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_33,67.74,74.02,70.25,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_147,67.64,74.46,70.37,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_13,67.4,77.2,71.32,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_149,71.88,72.72,72.22,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_129,70.68,76.64,73.06,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_256,69.6,79.82,73.69,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_163,69.49,79.99,73.69,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_48,71.6,76.93,73.73,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_105,69.21,81.4,74.09,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_88,75.51,72.92,74.47,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_4,72.85,78.85,75.25,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_60,72.37,80.62,75.67,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_198,67.51,87.92,75.68,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_36,76.63,74.88,75.93,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_119,70.75,85.36,76.59,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_115,80.71,70.97,76.82,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_79,83.73,67.37,77.19,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_114,71.73,85.44,77.21,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_175,78.47,75.95,77.46,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_10,83.46,68.53,77.49,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_213,70.28,90.41,78.33,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_174,78.42,78.43,78.42,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_169,76.26,81.76,78.46,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_96,81.59,74.04,78.57,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_259,73.26,87.59,78.99,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_37,77.84,81.46,79.29,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_143,82.34,74.95,79.38,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_73,94.06,57.78,79.55,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_44,77.13,83.96,79.86,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_94,79.93,81.95,80.74,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_23,84.25,75.48,80.74,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_75,81.53,80.31,81.04,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_89,82.38,79.05,81.05,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_27,71.89,95.02,81.14,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD001.txt_45,78.61,85.42,81.33,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_192,83.08,80.82,82.18,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD003.txt_30,92.53,70.78,83.83,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_120,80.7,89.27,84.13,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD004.txt_90,95.58,67.65,84.41,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon,WARNING,Maintenance should be scheduled soon
+test_FD002.txt_221,88.62,79.85,85.11,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_82,75.17,100.38,85.26,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_14,85.27,85.26,85.27,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_31,85.62,85.21,85.46,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_212,83.1,89.26,85.56,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_153,85.08,86.63,85.7,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_11,89.63,80.47,85.97,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_67,84.51,88.33,86.03,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_89,85.8,86.51,86.08,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_106,70.31,110.29,86.3,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_54,87.32,88.32,87.72,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_214,84.27,92.98,87.75,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_80,90.08,85.65,88.31,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_171,92.17,83.18,88.58,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_25,86.22,92.94,88.91,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_14,86.74,92.21,88.93,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_232,74.41,112.75,89.74,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_5,89.78,90.3,89.99,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_70,91.44,88.81,90.39,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_39,87.98,94.08,90.42,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_219,91.25,89.65,90.61,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_172,88.8,94.95,91.26,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_70,82.77,104.31,91.39,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_26,92.07,90.42,91.41,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_91,89.77,94.92,91.83,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_226,83.27,104.67,91.83,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_228,91.67,92.23,91.9,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_57,92.07,91.95,92.03,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_221,91.92,93.35,92.49,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_51,88.4,98.78,92.56,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_11,85.66,103.01,92.6,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_138,101.12,80.28,92.78,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_131,75.05,119.89,92.99,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_208,96.54,88.78,93.44,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_189,97.69,88.77,94.12,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_23,94.63,93.59,94.21,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_207,93.67,95.46,94.38,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_151,94.71,94.13,94.48,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_29,98.96,88.97,94.96,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_79,103.26,82.79,95.07,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_110,86.66,107.88,95.15,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_97,92.02,100.34,95.35,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_29,104.64,82.35,95.73,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_84,90.2,104.12,95.77,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_20,97.23,94.07,95.96,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_41,105.83,81.46,96.08,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_61,95.15,97.78,96.2,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_72,89.93,105.71,96.25,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_136,85.74,112.34,96.38,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_57,91.53,103.75,96.42,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_96,97.28,95.71,96.65,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_200,107.84,80.53,96.92,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_121,98.71,95.03,97.24,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_176,88.88,109.89,97.28,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_242,98.98,95.72,97.68,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_56,113.02,75.91,98.18,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_240,96.34,101.18,98.27,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_210,80.7,124.77,98.33,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_94,113.02,76.98,98.6,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_92,95.94,103.12,98.81,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_140,103.82,91.33,98.83,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_78,82.19,124.51,99.11,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_93,115.12,76.25,99.58,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_162,101.96,96.65,99.84,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_19,107.77,88.14,99.92,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_92,96.34,106.4,100.37,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_18,107.81,89.49,100.48,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_10,103.16,96.77,100.6,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_188,95.97,108.41,100.95,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_2,97.26,106.58,100.99,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_152,95.43,111.52,101.87,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_137,102.16,101.94,102.07,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_204,114.95,83.23,102.26,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_215,90.35,120.47,102.4,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_21,91.01,120.5,102.8,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_130,97.16,111.38,102.85,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_98,91.71,119.69,102.9,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_50,95.37,115.14,103.28,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_34,93.94,117.81,103.49,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_7,108.6,95.92,103.53,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_85,121.12,78.37,104.02,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_29,103.0,106.39,104.36,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_193,115.13,88.93,104.65,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_200,99.84,113.12,105.16,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_33,105.48,105.96,105.67,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_45,99.97,115.08,106.02,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_16,96.95,119.74,106.07,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_66,105.14,108.55,106.5,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD003.txt_56,106.76,106.78,106.77,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_7,110.2,101.88,106.87,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_95,96.92,121.92,106.92,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD001.txt_47,103.76,111.88,107.01,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_36,99.02,119.33,107.14,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_108,113.51,98.14,107.36,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_201,123.46,83.46,107.46,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_153,102.77,116.74,108.36,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD002.txt_180,116.84,97.0,108.9,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_186,98.96,124.3,109.09,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_117,111.78,105.69,109.35,HEALTHY,Machine is operating normally,WARNING,Maintenance should be scheduled soon,HEALTHY,Machine is operating normally
+test_FD004.txt_4,124.3,87.19,109.46,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_106,103.12,119.52,109.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_75,110.18,109.02,109.71,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_49,107.36,113.37,109.77,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_12,107.88,112.92,109.9,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_154,102.78,121.24,110.16,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_48,112.9,107.5,110.74,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_128,103.75,122.66,111.31,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_168,117.11,102.79,111.38,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_10,105.74,120.5,111.65,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_147,114.12,108.57,111.9,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_66,123.12,95.49,112.07,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_80,108.79,117.42,112.24,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_17,122.12,98.07,112.5,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_63,107.59,120.39,112.71,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_201,104.4,125.0,112.75,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_229,111.09,115.46,112.84,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_34,113.48,112.58,113.12,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_42,109.54,120.18,113.79,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_20,108.6,121.88,113.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_30,113.03,115.94,114.19,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_50,120.25,107.23,115.04,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_247,113.93,116.71,115.04,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_202,110.45,121.96,115.06,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_43,115.8,114.59,115.31,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_28,116.54,114.81,115.85,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_88,115.08,117.8,116.17,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_188,114.38,120.5,116.83,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_163,114.34,121.65,117.26,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_251,123.78,107.75,117.37,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_115,113.77,122.87,117.41,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_236,123.56,108.82,117.67,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_118,112.73,125.0,117.81,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_205,114.19,123.7,117.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_84,120.6,114.26,118.06,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_216,113.39,125.0,118.17,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_104,116.46,120.81,118.2,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_125,120.93,115.37,118.71,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_3,114.49,125.0,118.72,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_145,114.88,125.0,118.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_239,118.92,119.44,119.13,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_54,115.84,124.99,119.5,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_244,121.69,116.29,119.53,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_206,124.63,112.38,119.73,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_26,124.13,114.02,120.09,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_3,124.47,113.6,120.12,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_235,117.86,123.87,120.27,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_8,117.84,124.42,120.48,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_152,117.55,125.0,120.58,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_194,118.39,124.26,120.74,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_74,120.28,122.39,121.12,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_132,118.52,125.0,121.16,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_112,118.6,125.0,121.2,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_44,121.56,120.77,121.24,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_6,121.56,120.84,121.27,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_131,118.63,125.0,121.29,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_77,119.12,125.0,121.57,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_117,119.36,125.0,121.63,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_15,122.18,121.04,121.73,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_95,124.88,117.08,121.76,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_149,119.64,125.0,121.79,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_55,119.86,125.0,122.08,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_53,121.4,123.79,122.36,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_52,125.0,118.61,122.49,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_60,121.63,123.91,122.54,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_178,124.21,120.14,122.58,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_156,124.73,119.4,122.59,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_105,120.87,125.0,122.65,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_86,123.16,121.99,122.69,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_142,124.77,119.65,122.72,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_258,124.86,120.06,122.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_167,122.0,124.87,123.15,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_191,124.8,121.14,123.34,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_66,122.31,125.0,123.44,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_9,124.57,121.99,123.54,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_60,122.41,125.0,123.6,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_125,122.49,125.0,123.64,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_16,124.91,121.95,123.73,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_27,123.83,123.58,123.73,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_47,123.1,124.78,123.77,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_168,122.88,125.0,123.81,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_148,124.86,122.38,123.86,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_17,124.51,122.93,123.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_5,123.26,124.82,123.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_12,123.13,125.0,123.89,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_230,123.87,123.95,123.9,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_196,123.43,124.74,123.95,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_51,123.13,125.0,123.96,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_123,123.14,125.0,123.97,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_166,123.52,124.8,124.03,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_156,123.75,124.47,124.04,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_83,124.62,123.2,124.05,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_191,123.32,125.0,124.07,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_79,123.94,124.3,124.09,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_234,124.18,124.02,124.12,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_13,123.7,124.89,124.17,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_95,123.76,124.8,124.18,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_54,124.86,123.41,124.28,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_21,123.7,125.0,124.29,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_136,123.63,125.0,124.29,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_255,124.65,123.75,124.29,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_29,124.01,124.73,124.3,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_6,123.64,125.0,124.31,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_187,123.72,125.0,124.34,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_26,123.85,125.0,124.35,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_170,124.06,124.8,124.36,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_74,123.88,125.0,124.36,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_99,124.8,123.73,124.37,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_2,123.82,125.0,124.37,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_69,123.72,125.0,124.41,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_243,123.99,125.0,124.41,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_83,123.81,125.0,124.42,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_229,124.52,124.4,124.47,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_220,123.91,125.0,124.47,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_60,123.96,125.0,124.52,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_96,125.0,123.71,124.52,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_119,124.12,125.0,124.54,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_155,125.0,123.56,124.55,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_12,124.03,125.0,124.55,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_97,124.1,125.0,124.55,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_28,125.0,123.9,124.56,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_6,124.26,125.0,124.56,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_67,125.0,123.76,124.59,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_46,124.29,125.0,124.61,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_98,124.68,124.51,124.61,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_10,124.2,125.0,124.62,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_85,124.19,125.0,124.62,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_69,124.58,124.7,124.63,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_243,124.2,125.0,124.64,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_69,124.31,125.0,124.64,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_233,124.27,125.0,124.66,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_144,124.49,124.93,124.66,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_81,124.29,125.0,124.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_182,124.2,125.0,124.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_130,124.49,124.96,124.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_101,124.35,125.0,124.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_47,124.32,125.0,124.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_18,124.24,125.0,124.68,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_207,124.86,124.43,124.69,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_165,124.44,125.0,124.69,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_22,124.42,125.0,124.69,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_141,124.49,125.0,124.7,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_233,124.33,125.0,124.71,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_169,124.31,125.0,124.73,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_122,124.65,124.84,124.73,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_4,124.41,125.0,124.74,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_46,124.43,125.0,124.74,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_16,124.32,125.0,124.75,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_126,124.62,124.96,124.75,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_197,124.95,124.5,124.77,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_54,124.35,125.0,124.77,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_83,124.66,124.95,124.78,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_89,124.44,125.0,124.78,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_5,124.38,125.0,124.78,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_78,124.58,125.0,124.79,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_178,124.6,125.0,124.79,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_73,124.78,124.82,124.8,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_217,125.0,124.33,124.8,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_22,124.47,125.0,124.8,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_15,124.52,125.0,124.81,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_11,124.44,125.0,124.82,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_83,124.54,125.0,124.82,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_220,124.46,125.0,124.82,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_63,124.56,125.0,124.82,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_249,124.52,125.0,124.83,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_41,124.5,125.0,124.83,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_18,124.51,125.0,124.83,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_24,124.48,125.0,124.83,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_108,124.7,125.0,124.84,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_25,124.54,125.0,124.84,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_74,124.51,125.0,124.84,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_37,124.6,125.0,124.85,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_175,124.57,125.0,124.85,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_161,124.56,125.0,124.86,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_165,124.52,125.0,124.87,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_49,124.52,125.0,124.87,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_59,124.72,125.0,124.87,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_109,124.58,125.0,124.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_61,124.55,125.0,124.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_157,124.76,125.0,124.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_166,124.68,125.0,124.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_71,124.6,125.0,124.88,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_37,124.7,125.0,124.89,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_59,124.69,125.0,124.89,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_9,124.61,125.0,124.89,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_63,124.89,124.9,124.9,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_43,124.6,125.0,124.9,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_73,124.8,125.0,124.9,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_52,124.55,125.0,124.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_45,124.71,125.0,124.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_232,124.65,125.0,124.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_129,124.66,125.0,124.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_68,124.61,125.0,124.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_55,124.74,125.0,124.91,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_67,124.69,125.0,124.92,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_195,124.7,125.0,124.92,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_59,124.72,125.0,124.92,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_170,124.65,125.0,124.93,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_97,124.71,125.0,124.93,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_238,124.66,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_84,124.73,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_65,124.7,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_228,124.67,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_55,124.67,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_88,124.67,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_226,124.7,125.0,124.94,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_199,124.7,125.0,124.95,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_203,124.74,125.0,124.95,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_93,124.67,125.0,124.95,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_218,124.72,125.0,124.95,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_85,124.68,125.0,124.96,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_223,124.68,125.0,124.96,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_230,125.0,124.86,124.96,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_245,124.75,125.0,124.96,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_139,124.65,125.0,124.97,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_203,124.68,125.0,124.97,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_157,124.73,125.0,124.97,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_51,124.77,125.0,124.98,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_146,124.72,125.0,124.98,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_227,124.75,125.0,124.98,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_87,124.71,125.0,124.98,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_23,124.75,125.0,124.98,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_141,124.75,125.0,124.98,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_57,124.78,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_184,124.74,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_94,124.77,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_74,124.8,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_6,124.78,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_104,124.74,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_93,124.71,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_224,124.81,125.0,124.99,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_19,124.8,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_122,124.77,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_204,124.9,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_51,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_53,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_225,124.89,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_246,124.9,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_135,124.98,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_95,124.69,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_71,124.89,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_113,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_196,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_241,124.86,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_86,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_72,124.8,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_76,124.93,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_239,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_33,124.82,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_75,124.74,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_65,124.92,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_87,124.93,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_56,124.95,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_214,124.93,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_36,124.78,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_35,124.91,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_167,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_164,124.75,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_160,124.95,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_27,124.94,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_57,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_34,124.89,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_31,124.77,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD003.txt_80,124.84,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_28,124.93,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_27,124.92,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_247,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_246,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_16,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_241,124.84,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_19,124.87,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_205,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_133,124.91,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_28,124.93,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD002.txt_81,124.95,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_211,124.85,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_39,124.81,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_30,124.86,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_128,124.89,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_215,124.9,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_127,125.0,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD004.txt_218,124.89,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
+test_FD001.txt_1,124.82,125.0,125.0,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally,HEALTHY,Machine is operating normally
