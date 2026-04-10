@@ -9,6 +9,30 @@ This project integrates **deep learning models, ensemble techniques, alert syste
 
 This project predicts how many cycles (time steps) are left before an engine fails.
 
+# 🔧 PrognosAI-RUL: Remaining Useful Life Prediction
+
+An end-to-end machine learning project for predicting the Remaining Useful Life (RUL) of aircraft engines using NASA CMAPSS dataset.
+
+---
+
+## 🚀 Key Features
+- 📊 Data preprocessing (normalization, clipping, feature engineering)
+- 🤖 Deep Learning models (GRU & LSTM)
+- 📈 Model evaluation (MAE, RMSE, R²)
+- 📉 Visualization of predictions vs actual RUL
+- 🖥️ Interactive dashboard for insights
+
+---
+
+## 🧠 Tech Stack
+- Python
+- PyTorch
+- Pandas, NumPy
+- Matplotlib, Plotly
+- Streamlit (for dashboard)
+
+---
+
 ### 🔁 Pipeline:
 
 * Data preprocessing & feature engineering
